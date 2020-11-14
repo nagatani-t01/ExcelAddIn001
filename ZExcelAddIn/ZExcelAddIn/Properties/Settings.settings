@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ZExcelAddIn.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ズーム率" Type="System.String" Scope="User">
+      <Value Profile="(Default)">70</Value>
+    </Setting>
+    <Setting Name="カーソル位置" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A1</Value>
+    </Setting>
+    <Setting Name="上記に続けて" Type="System.String" Scope="User">
+      <Value Profile="(Default)">上記に続けて確認</Value>
+    </Setting>
+    <Setting Name="列を記憶" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

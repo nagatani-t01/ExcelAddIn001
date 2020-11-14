@@ -1,0 +1,13 @@
+C:\Subversion(localhost)\ZDC\tool\Excelアドオン\ZExcelAddIn\ZExcelAddIn\bin\Debug\ZExcelAddIn.dll
+C:\Subversion(localhost)\ZDC\tool\Excelアドオン\ZExcelAddIn\ZExcelAddIn\bin\Debug\ZExcelAddIn.pdb
+C:\Subversion(localhost)\ZDC\tool\Excelアドオン\ZExcelAddIn\ZExcelAddIn\bin\Debug\ZExcelAddIn.dll.manifest
+C:\Subversion(localhost)\ZDC\tool\Excelアドオン\ZExcelAddIn\ZExcelAddIn\bin\Debug\ZExcelAddIn.vsto
+C:\Subversion(localhost)\ZDC\tool\Excelアドオン\ZExcelAddIn\ZExcelAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Subversion(localhost)\ZDC\tool\Excelアドオン\ZExcelAddIn\ZExcelAddIn\obj\Debug\ZExcelAddIn.Properties.Resources.resources
+C:\Subversion(localhost)\ZDC\tool\Excelアドオン\ZExcelAddIn\ZExcelAddIn\obj\Debug\ZExcelAddIn.Ribbon1.resources
+C:\Subversion(localhost)\ZDC\tool\Excelアドオン\ZExcelAddIn\ZExcelAddIn\obj\Debug\ZExcelAddIn.csproj.GenerateResource.cache
+C:\Subversion(localhost)\ZDC\tool\Excelアドオン\ZExcelAddIn\ZExcelAddIn\obj\Debug\ZExcelAddIn.csproj.CoreCompileInputs.cache
+C:\Subversion(localhost)\ZDC\tool\Excelアドオン\ZExcelAddIn\ZExcelAddIn\obj\Debug\ZExcelAddIn.csproj.CopyComplete
+C:\Subversion(localhost)\ZDC\tool\Excelアドオン\ZExcelAddIn\ZExcelAddIn\obj\Debug\ZExcelAddIn.dll
+C:\Subversion(localhost)\ZDC\tool\Excelアドオン\ZExcelAddIn\ZExcelAddIn\obj\Debug\ZExcelAddIn.pdb
+C:\Subversion(localhost)\ZDC\tool\Excelアドオン\ZExcelAddIn\ZExcelAddIn\bin\Debug\ZExcelAddIn.dll.config
