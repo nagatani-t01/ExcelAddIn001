@@ -26,7 +26,7 @@ namespace ZExcelAddIn
         static public void delete_customviews()
         {
             var activeWorkbook = ZExcelAddIn.Globals.ThisAddIn.Application.ActiveWorkbook as Microsoft.Office.Interop.Excel.Workbook;
-            foreach (Excel.CustomView cv in activeWorkbook.CustomViews )
+            foreach (Excel.CustomView cv in activeWorkbook.CustomViews)
             {
                 cv.Delete();
             }
@@ -149,7 +149,7 @@ namespace ZExcelAddIn
             var sel = ZExcelAddIn.Globals.ThisAddIn.Application.Selection;
             int totalcnt = 0;
             String wks = "";
-            String strPattern = "^[0-9]*[.]";
+            String strPattern = "^[0-9]*[．]";
             var rx = new Regex(strPattern, RegexOptions.Compiled);
 
             for (int i = 1; i < sel.Count() + 1; i++)
@@ -160,7 +160,8 @@ namespace ZExcelAddIn
                 }
                 else
                 {
-                    wks = retext + "\n";
+                    //wks = retext + "\n";
+                    wks = retext + "";
                 }
                 if (sel[i].value != null)
                 {
@@ -173,16 +174,16 @@ namespace ZExcelAddIn
                             if (" " != tmp_rg.Substring(0, 1) && "　" != tmp_rg.Substring(0, 1))
                             {
                                 totalcnt++;
-                                wks = wks + totalcnt.ToString() + "." + tmp_rg + "\n";
-                                activeWorksheet.Cells[sel[i].Row, sel[i].Column].value = wks;
+                                wks = wks + totalcnt.ToString() + "．" + tmp_rg + "\n";
+                                //activeWorksheet.Cells[sel[i].Row, sel[i].Column].value = wks;
                             }
                             else
                             {
                                 wks = wks + tmp_rg + "\n";
-                                activeWorksheet.Cells[sel[i].Row, sel[i].Column].value = wks;
                             }
                         }
                     }
+                    activeWorksheet.Cells[sel[i].Row, sel[i].Column].value = wks.Trim('\n');
                 }
             }
         }
