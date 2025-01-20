@@ -1,0 +1,14 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/ZExcelAddIn/ZExcelAddIn/bin/Debug/ZExcelAddIn.dll
+/ZExcelAddIn/ZExcelAddIn/bin/Debug/ZExcelAddIn.dll.config
+/ZExcelAddIn/ZExcelAddIn/bin/Debug/ZExcelAddIn.dll.manifest
+/ZExcelAddIn/ZExcelAddIn/bin/Debug/ZExcelAddIn.pdb
+/ZExcelAddIn/ZExcelAddIn/bin/Debug/ZExcelAddIn.vsto
+/ZExcelAddIn/ZExcelAddIn/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+/ZExcelAddIn/ZExcelAddIn/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/ZExcelAddIn/ZExcelAddIn/obj/Debug/ZExcelAddIn.csproj.CoreCompileInputs.cache
+/ZExcelAddIn/ZExcelAddIn/obj/Debug/ZExcelAddIn.csproj.FileListAbsolute.txt
+/ZExcelAddIn/ZExcelAddIn/obj/Debug/ZExcelAddIn.csproj.GenerateResource.cache
